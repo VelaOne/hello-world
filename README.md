@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi,
+
+My name is Yifan Wei, and I'm starting learning Rails now!
